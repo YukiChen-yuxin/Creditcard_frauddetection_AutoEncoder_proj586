@@ -1,4 +1,4 @@
-# Creditcard_frauddetection_AutoEncoder_proj586
+# Creditcard_frauddetection_AutoEncoder
 
 ## Introduction
 With the widespread use of credit card technology, credit card fraud cases have been increasing. AutoEncoders
